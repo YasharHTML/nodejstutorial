@@ -1,0 +1,17 @@
+{
+  "name": "temp",
+  "version": "1.0.0",
+  "description": "BirlikTeam Entrance Results",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "YASHARHTML, GLYNZR, AzimAzizov",
+  "license": "MIT",
+  "dependencies": {
+    "better-sqlite3": "^7.6.2",
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1",
+    "request": "^2.88.2"
+  }
+}
